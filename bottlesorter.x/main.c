@@ -1,7 +1,7 @@
 /*
  * File:   main.c
  * Author: Maliha Islam
- * Description: Complete code for a bottle sorting machine that sorts four types
+ * Description: Complete code for a bottle sorting machine that sorts four types of
  *              bottles: YOP with/without cap, ESKA with/ without cap;
  *              machine interface and operation code
  * Reference Sources:
